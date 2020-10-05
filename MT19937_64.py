@@ -2,7 +2,7 @@
 
 '''
 MT19937_64 Python implementation of the 64-bit Mersenne Twister
-Pseudorandom Number Generator with period 2^19937 - 1.
+pseudorandom number generator (PRNG) with period 2^19937 - 1.
 
 Author: Patrick Kelly
 Email: patrickyunen@gmail.com
